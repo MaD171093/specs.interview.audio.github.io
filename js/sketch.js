@@ -11,19 +11,19 @@ let ctr = 1;
 
 
 let questionsDict ={
-    1: "What differences, if any, did you notice in your movements during the improvisation with LuminAI compared to your usual dance choices?",
+    1: "How did LuminAI’s responses influence your movement choices in ways that deviated from your usual dance patterns?",
     2: "In what ways, if any, did LuminAI influence your choice of movements or sequences?",
     3: "How would you describe the impact of LuminAI on your movement choices?",
-    4: "Were there any moments in the improvisation that you found particularly meaningful or expressive?",
-    5: "Were there any moments during the improvisation that surprised you?",
-    6: "Were there any aspects of the dance that evolved differently than you anticipated due to LuminAI?",
-    7: "Describe your experience improvising with LuminAI. What strategies did you use to adapt your movements in response to the LuminAI’s actions?",
-    8: "Can you reflect on any challenges you faced during the interaction with LuminAI? How did you overcome these challenges?",
-    9: "Can you describe how you communicated or interacted with LuminAI?",
-    10: "How do you think dancing with an AI like LuminAI differs from dancing with a human partner? What unique cognitive demands does it place on you as a performer?",
-    11: "How did you feel about the dance improvisation process with LuminAI?",
+    4: "Did LuminAI facilitate any moments of heightened meaning or expressiveness in your improvisation? If so, how?",
+    5: "Did LuminAI generate any movements or interactions that were unexpected? If so, how did you respond?",
+    6: "Did LuminAI introduce any movement patterns that led your improvisation in an unanticipated direction? Give examples and explain.",
+    7: "Describe your experience improvising with LuminAI. What strategies did you use to adapt your movement style or decision-making to engage dynamically with LuminAI’s responses?",
+    8: "Can you reflect on any challenges you faced during the interaction with LuminAI? How did you navigate or overcome them?",
+    9: "Can you describe how you established a dialogue or interaction with LuminAI through movement?",
+    10: "How did improvising with LuminAI differ from dancing with a human partner, and what cognitive or creative adjustments did it require of you as a performer?",
+    11: "What emotions or states of mind did you experience while co-creating movements with LuminAI?",
     12: "Did using LuminAI affect your level of engagement or motivation during the improvisation? In what way?",
-    13: "During your interaction with LuminAI, did you feel LuminAI engaged with you throughout the session?",
+    13: "How would you describe LuminAI’s level of engagement throughout your improvisation?",
     14: "Can you describe a moment when you felt particularly connected or disconnected from LuminAI during the dance? What do you think influenced that feeling of connection or disconnection?"
 }
 
